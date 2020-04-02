@@ -1,0 +1,3 @@
+﻿  Spending.cpp
+C:\Users\crist\Desktop\,\Lab4-5\Lab4-5\Spending.cpp(144,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab4-5.vcxproj -> C:\Users\crist\Desktop\,\Lab4-5\x64\Debug\Lab4-5.exe

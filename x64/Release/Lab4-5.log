@@ -1,0 +1,11 @@
+﻿  Lab4-5.cpp
+  Repo.cpp
+  Service.cpp
+  Spending.cpp
+C:\Users\crist\Desktop\,\Lab4-5\Lab4-5\Spending.cpp(144,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Tests.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab4-5.vcxproj -> C:\Users\crist\Desktop\,\Lab4-5\x64\Release\Lab4-5.exe
